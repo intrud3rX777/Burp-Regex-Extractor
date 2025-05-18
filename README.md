@@ -71,13 +71,6 @@ Regex Extractor is a Burp Suite extension that allows you to extract matches fro
 
 ---
 
-## ⚠️ Disclaimer
-
-This extension is intended for use during authorized security assessments and research only.  
-Use responsibly and in compliance with applicable laws.
-
----
-
 ## 📬 Contributing
 
 Pull requests and feature suggestions are welcome!  
