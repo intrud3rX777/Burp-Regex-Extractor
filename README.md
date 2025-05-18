@@ -51,6 +51,9 @@ Regex Extractor is a Burp Suite extension that allows you to extract matches fro
 
 ---
 
+<img width="962" alt="image" src="https://github.com/user-attachments/assets/5f321472-aa7f-4960-a38c-859cc350d5b2" />
+
+
 ## 📝 Example Regex Patterns
 
 | Pattern Name     | Regex Pattern                                         |
